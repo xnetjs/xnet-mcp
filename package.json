@@ -1,0 +1,17 @@
+{
+  "name": "xnet-mcp",
+  "version": "1.0.0",
+  "description": "xnet mcp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "robin peng",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.0",
+    "node-fetch": "^2.2.0",
+    "raven": "^2.6.4",
+    "xnet-util": "git+https://github.com/xnetjs/xnet-util.git"
+  }
+}
